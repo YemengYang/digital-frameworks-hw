@@ -35,7 +35,7 @@ The overall credit card delinquency rate increased by 13.3 percent, to 1.46 perc
 
 Personal loan originations declined for all risk tiers, but at lower rates than for subprime originations. The overall personal loans delinquency rate declined by 8.5 percent, to 3.02 percent.
 
-GRAPH
+![picture1](https://user-images.githubusercontent.com/29659816/29672619-c5f41ef0-88ba-11e7-9806-2786380419f1.png)
 [Though originations of subprime mortgage in the first quarter were at their lowest for four quarters, that was still the highst first-quarter total of the past six years.]
 
 To be sure, the mortgage delinquency rate reached the lowest level in the second quarter since the recession. The mortgage delinquency rate was 1.92 percent, dropping below 2 percent for the first time in almost 10 years.
@@ -48,4 +48,8 @@ The slowdown in subprime lending is a sign of a healthy economy, Becker said.
 
 TransUnion provides credit information and information management services to businesses and consumers. It releases data for consumer credits quarterly.
 
+
 PROCESS: 
+
+I did this story based on an assignment during my internship in American Banker. My editor found this data set for me and let me interview its research people. This data set in quite important because it indicates the current trend in loans and lending, a barometer of economy. I first found the most apparent message the data sent: subprime originations for three categories was declining. The follow-up questions would be why did it decline and what does this trend mean to the economy. I then looked into the data set and found the decline in subprime originations coincided with the increase in delinquency rates. It might be the reason behind the decline and I confirmed it with a research person in a phone interview. He also told me the decline was a sign of a healthy economy, which answers my second question. My story basically was built around the data set and answers to these two questions: reasons and impact. It was a fun progress to make a lot of data clearer, analyze them and figure out what do they indicate and why is it important to my readers. I think it is also helpful for my future data stories.
+
